@@ -7,8 +7,6 @@
 
   ## Running the code
 
-  This project uses Vite, so **don’t** run it by opening `index.html` directly. Use the dev server instead.
-
   - **Install dependencies**:
     - `npm install`
   - **Start the dev server**:
